@@ -1,2 +1,2 @@
 # MyWebTemp1
-Recreating a website template from scratch
+Recreating a website from an image.
