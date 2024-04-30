@@ -80,6 +80,7 @@ h1, h2 {
 
 .quote blockquote {
     font-style: italic;
+    color:black;
 }
 
 .quote footer {
